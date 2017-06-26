@@ -1,0 +1,16 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# large image training and test files
+Keras_data/
